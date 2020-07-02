@@ -11,7 +11,7 @@ global class AccountBatch implements Database.Batchable<sObject> {
         Query=q; Entity=e; Field=f;Value=v;
         }
 	*/
-    
+    //Hakuna Matata
     global AccountBatch(){
         i=0;
     }
